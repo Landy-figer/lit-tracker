@@ -1,0 +1,4 @@
+# Local build artifacts / temp files
+*.log
+_tmp*
+.chrome-cdp/
